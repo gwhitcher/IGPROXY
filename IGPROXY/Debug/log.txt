@@ -1,0 +1,66 @@
+IGPROXY v0.01
+Proxy server started: IP: 127.0.0.1 PORT: 9000
+Waiting for connection.
+Attempting to accept connection.
+Connection accepted.
+Attempting connection to 64.13.139.230 23
+Connection successful.
+IGPROXY v0.01
+Proxy server started: IP: 127.0.0.1 PORT: 9000
+Waiting for connection.
+Attempting to accept connection.
+Connection accepted.
+Attempting connection to 64.13.139.230 23
+Connection successful.
+(null)
+(null)
+(null)
+(null)
+(null)
+(null)
+(null)
+(null)
+(null)
+(null)
+IGPROXY v0.01
+Proxy server started: IP: 127.0.0.1 PORT: 9000
+Waiting for connection.
+Attempting to accept connection.
+Connection accepted.
+Attempting connection to 64.13.139.230 23
+Connection successful.
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
